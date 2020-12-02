@@ -46,7 +46,7 @@ public class CatTest {
     }
 
 
-    @Test
+  /*  @Test
     public void feedTheLion() {
         Cat lionCat = new LionCat();
         assertEquals("Roar!!!!", lionCat.eat());
@@ -62,5 +62,5 @@ public class CatTest {
     public void feedTheCat() {
         Cat domesticCat = new DomesticCat();
         assertEquals("Purrrrrrr", domesticCat.eat());
-    }
+    }*/
 }
